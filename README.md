@@ -1,6 +1,7 @@
 # iodine-docker
 
-Docker image for [Iodine](http://code.kryo.se/iodine/)
+Docker image for [Iodine](http://code.kryo.se/iodine/). Originally based on the
+Dockerfile from [FiloSottile](https://github.com/FiloSottile/Dockerfiles/tree/master/iodine)
 
 ## Usage
 
