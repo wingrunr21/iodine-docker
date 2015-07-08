@@ -5,7 +5,7 @@ Dockerfile from [FiloSottile](https://github.com/FiloSottile/Dockerfiles/tree/ma
 
 ## Usage
 
-    docker pull wingrunr21/iodine
+    docker pull wingrunr21/iodine-docker
     docker run -d --privileged -p 53:53/udp -e IODINE_HOST=t.example.com -e IODINE_PASSWORD=1234password wingrunr21/iodine
 
 ### Environment Variables
